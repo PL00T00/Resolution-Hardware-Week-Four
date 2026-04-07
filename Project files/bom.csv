@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"01, 02, 03, 04, 05, 06, 07, 08, 09, 10",LED_D5.0mm,10,LED,
+1K,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,R11,
+"C1, C2",C_Disc_D8.0mm_W5.0mm_P5.00mm,2,0.1,
+J1,USB_A_Molex_67643_Horizontal,1,USB_A,
+"PLUS ONE, RESET",SW_PUSH-12mm,2,SW_Push,
+"R1, R10, R2, R3, R4, R5, R6, R7, R8, R9",R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,10,470,
+R12,R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,1,10k,
+U1,DIP-16_W7.62mm,1,4017,
