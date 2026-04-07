@@ -18,3 +18,7 @@ Here's a 3D render of my PCB!
 
 
 Here's a video of me making it!
+
+
+
+To see all my resolution hardware projects head over to https://github.com/PL00T00/Resolution-hardware-projects
