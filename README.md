@@ -33,16 +33,16 @@ https://lapse.hackclub.com/timelapse/hCRQ5qOuCu0Q
 - USB A power!
 
 ## BOM!
-
-Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
-C1,C2	2	0.1				Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm	
-D1,D2,D3,D4,D5,D6,D7,D8,D9,D10	10	LED				LED_THT:LED_D5.0mm	
-J1	1	USB_A				Connector_USB:USB_A_Molex_67643_Horizontal	
-R1,R2,R3,R4,R5,R6,R7,R8,R9,R10	10	470				Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal	
-R11	1	1k				Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal	
-R12	1	10k				Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal	
-SW1,SW2	2	SW_Push				Button_Switch_THT:SW_PUSH-12mm	
-U1	1	4017				Package_DIP:DIP-16_W7.62mm	http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf
+ Reference | Qty | Value | Footprint | Datasheet |
+|-----------|-----|-------|-----------|-----------|
+| C1, C2 | 2 | 0.1µF | Capacitor_THT:C_Disc_D8.0mm_W5.0mm_P5.00mm | — |
+| D1–D10 | 10 | LED | LED_THT:LED_D5.0mm | — |
+| J1 | 1 | USB_A | Connector_USB:USB_A_Molex_67643_Horizontal | — |
+| R1–R10 | 10 | 470Ω | Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal | — |
+| R11 | 1 | 1kΩ | Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal | — |
+| R12 | 1 | 10kΩ | Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal | — |
+| SW1, SW2 | 2 | SW_Push | Button_Switch_THT:SW_PUSH-12mm | — |
+| U1 | 1 | 4017 | Package_DIP:DIP-16_W7.62mm | [Datasheet](http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf) |
 
 
 To see all my resolution hardware projects head over to https://github.com/PL00T00/Resolution-hardware-projects
